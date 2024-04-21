@@ -15,11 +15,12 @@ User stories or tasks (see chapter 4):
 
 In progress:
 * Task-2 (Zwe Sett Aung), date started
-* 01/03/2024
+* Inventory Management for Partners (ZSA), date started: March 2, 2024
 
 Completed:
 * Task-3 (Zwe Sett Aung), date completed
-* 28/03/2024
+* User Account and Profile Setup (ZSA), date completed: March 6, 2024
+* Geolocation and Map Integration (ZSA), date completed: March 14, 2024
 
 ### Burn Down for iteration-1 (see chapter 4):
 4 weeks left, 20 days of estimated amount of work
