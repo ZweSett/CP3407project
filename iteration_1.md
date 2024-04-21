@@ -25,6 +25,6 @@ Completed:
 ### Burn Down for iteration-1 (see chapter 4):
 4 weeks left, 20 days of estimated amount of work
 2 weeks left, 12 days
-1 week left, 5 days
+1 week left, 5 days 
 0 weeks left, 0 days
 Actual Velocity: 5 days per week

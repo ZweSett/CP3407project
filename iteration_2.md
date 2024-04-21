@@ -28,4 +28,4 @@ Update this at least once per week
 * 2 weeks left, 5 days
 * 1 week left, 2 days
 * 0 weeks left, 0 days
-* Actual Velocity: 2.33 days per week
+* Actual Velocity: 2.33 days per week 

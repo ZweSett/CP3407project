@@ -22,4 +22,4 @@ Description-v1: Develop a feedback module that allows users to rate and comment 
 ![img_7.png](img_7.png)
 # Completed:
 * Screenshots of the feedback and rating system.
-![img_8.png](img_8.png)
+![img_8.png](img_8.png) 

@@ -22,4 +22,4 @@ Description-v1: Implement a payment module to handle transactions and ensure dat
 ![img_5.png](img_5.png)
 # Completed:
 * Screenshots of the payment integration interface.
-![img_6.png](img_6.png)
+![img_6.png](img_6.png) 

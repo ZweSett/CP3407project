@@ -25,3 +25,4 @@ Description-v1: Setup a system for users to manage their profiles, view purchase
 # Completed:
 * Screenshots of the completed user account setup interface.
 ![img.png](img.png)
+ 

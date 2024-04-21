@@ -19,7 +19,6 @@ It is recommended to complete this assignment in a group of maximum 3 students.
 2. Student name 2
 3. Name 3
 
-
 # *General* project planning BEFORE iteration-1, (see chapters 1 and 2)
 
 Checklist: 

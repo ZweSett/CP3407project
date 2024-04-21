@@ -22,4 +22,4 @@ Description-v1: Users will be able to find food outlets near them using their mo
 ![img_3.png](img_3.png)
 # Completed:
 * Screenshots of the map integration feature.
-![img_4.png](img_4.png)
+![img_4.png](img_4.png) 

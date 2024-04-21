@@ -23,3 +23,4 @@ Description-v1: Develop an inventory management system for partners to handle th
 # Completed:
 * Screenshots of the inventory management interface.
 ![img_2.png](img_2.png)
+*  
